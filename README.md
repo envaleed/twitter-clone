@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Version Available 
+
+Go to https://twitter-clone-81727.web.app/ to see this application hosted live.
+
 ## Available Scripts
 
 In the project directory, you can run:
